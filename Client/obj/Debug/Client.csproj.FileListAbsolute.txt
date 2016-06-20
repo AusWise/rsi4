@@ -1,0 +1,8 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\bin\Debug\Client.exe.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\bin\Debug\Client.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\bin\Debug\Client.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Debug\Client.Form1.resources
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Debug\Client.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Debug\Client.pdb

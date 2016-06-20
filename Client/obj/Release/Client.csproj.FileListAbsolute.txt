@@ -1,0 +1,9 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\bin\Release\Client.exe.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\bin\Release\Client.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\bin\Release\Client.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Release\Client.Form1.resources
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Release\Client.Properties.Resources.resources
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Release\Client.csproj.GenerateResource.Cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Release\Client.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Client\obj\Release\Client.pdb
+C:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3.2\Client\obj\Release\Client.csprojResolveAssemblyReference.cache

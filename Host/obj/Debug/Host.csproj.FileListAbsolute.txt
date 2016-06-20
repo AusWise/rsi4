@@ -1,0 +1,8 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\bin\Debug\Host.exe.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\bin\Debug\Host.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\bin\Debug\Host.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\bin\Debug\Contract.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\bin\Debug\Contract.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\obj\Debug\Host.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Host\obj\Debug\Host.pdb

@@ -1,0 +1,6 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Contract\bin\Release\Contract.dll.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Contract\bin\Release\Contract.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Contract\bin\Release\Contract.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Contract\obj\Release\Contract.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw3.2\Contract\obj\Release\Contract.pdb
+C:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3.2\Contract\obj\Release\Contract.csprojResolveAssemblyReference.cache
